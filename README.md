@@ -1,4 +1,4 @@
-Solucionador Método Simplex
+# Solucionador Método Simplex
 - M210 - Disciplina de Otimização I
 - Repositório para registro do projeto desenvolvido na disciplina.
 - Instituto Nacional de Telecomunicações - Inatel.
