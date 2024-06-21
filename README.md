@@ -27,7 +27,7 @@ Este projeto é um solucionador do Método Simplex para problemas de Programaç�
  
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/Izalp/solucionador-metodo-simplex.git
+    git clone https://github.com/Izalp/Solucionador-Metodo-Simplex.git
     ```
  
 2. Instale as dependências:
